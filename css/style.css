@@ -1,0 +1,65 @@
+/*Étape 3 - Structure CSS*/
+body{
+    font-family: Arial;
+    margin:0px;
+}
+/*<a href="#ville">Une grande ville*/
+
+/*Étape 5 - Style des liens de navigation interne*/
+a {
+    color:white;
+}
+/* Étape 5 - Style des liens de navigation interne*/
+.secondary-block{
+    color:white;
+    background:rgb(4, 117, 186);
+}
+nav{
+    height:70px;
+    display:flex;
+}
+
+nav h2{
+    margin:0px;
+    padding: 20px 0px 20px 15px;
+}
+nav ul{
+    display:flex;
+    margin:0px;
+    list-style:none;
+    padding:24px;
+}
+nav li{
+    margin-left:15px;
+}
+
+/*Étape 7 - Style de l'en-tête*/
+header{
+    text-align: center;
+    padding: 40px;
+}
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+header h2{
+   color: rgb(4, 117, 186);
+}
+header img{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px rgb(170, 170, 170);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
