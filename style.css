@@ -1,0 +1,96 @@
+/*Étape 3 - Structure CSS*/
+body {
+    font-family: Arial;
+    margin: 0px;
+}
+/*Étape 5 - Style des liens de navigation interne*/
+nav{
+    height: 70px;
+    display: flex;
+}
+.secondary-block {
+    color: white;
+    background-color:olivedrab/* rgb(4, 117, 186);*/
+
+}
+a{
+    color: rgb(255, 255, 255);
+}
+nav h2{
+    margin: 0px;
+    padding: 20px 0 20px 15px;
+}
+nav ul{
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+}
+nav li{
+    margin-left: 15px;
+}
+/* Étape 7 - Style de l'en-tête*/
+header{
+    text-align: center;
+    
+}
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+header h2{
+    color:olive/* rgb(4, 117, 186);*/
+}
+header img{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px rgb(170, 170, 170);
+}
+/*tape 9 - Style de la présentation*/
+
+section{
+    padding: 40px;
+}
+/*Étape 12 - Style des expériences professionnelles*/
+#xp ul{
+    margin:0px 0px 0px 0xp;
+    padding:0px 0px 0px 0px;
+    list-style: none;
+}
+#xp li{
+    margin-bottom: 10px;
+}
+#xp aside{
+    float: right;
+}
+/* Étape 16 - Style du bas de page*/
+footer{
+    padding: 40px;
+}
+footer ul{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+}
+.links{
+    margin-bottom: 25px;
+    width: 390px;
+    display: inline-block;
+}
+.hw{
+    float: right;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
+.l{
+    float: right;
+}
+
+
+
+
+
